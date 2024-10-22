@@ -79,4 +79,5 @@ O que você aprendeu construindo esse projeto?
 
 ## Demonstração
 
-![Demonstração Github Favorites](https://github.com/user-attachments/assets/dd58fedf-3b79-4d76-ac8e-91e0a3fe3f1f)
+https://github.com/user-attachments/assets/02a83ea2-dc62-4d9e-b744-b87b1adf3854
+
